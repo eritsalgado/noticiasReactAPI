@@ -27,7 +27,7 @@ class App extends Component {
   render(){
     return (<Fragment>
       <Header
-        titulo='Stripe API con React'
+        titulo='News API con React'
       />
 
       <div className="container white contenedor-noticias">
